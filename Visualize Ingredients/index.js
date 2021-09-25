@@ -15,6 +15,6 @@ xhr.open("POST", "https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/re
 xhr.setRequestHeader("content-type", "application/x-www-form-urlencoded");
 xhr.setRequestHeader("accept", "text/html");
 xhr.setRequestHeader("x-rapidapi-host", "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com");
-xhr.setRequestHeader("x-rapidapi-key", "ce8422e93cmsh9afff6a6e455fbfp1d8059jsna145fcdf17ef");
+xhr.setRequestHeader("x-rapidapi-key", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx7ef");
 
 xhr.send(data);
