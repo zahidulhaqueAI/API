@@ -11,7 +11,7 @@ xhr.addEventListener('readystatechange', function () {
 xhr.open('GET', 'https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/guessNutrition?title=Spaghetti%20Aglio%20et%20Olio');
 
 xhr.setRequestHeader('x-rapidapi-host', 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com');
-xhr.setRequestHeader('x-rapidapi-key', 'ce8422e93cmsh9afff6a6e455fbfp1d8059jsna145fcdf17ef');
+xhr.setRequestHeader('x-rapidapi-key', 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX7ef');
 
 xhr.send();
 
